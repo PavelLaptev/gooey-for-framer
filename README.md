@@ -12,9 +12,9 @@ goo = new GooeyLayer
 ```
 ## Properties
 ```coffeescript
-childBlur: true
-gooBlur: 60
-gooMatrix: "0 0 0 19 -9"
+childBlur: true #or false
+gooBlur: 60 #blur density
+gooMatrix: "0 0 0 19 -9" #custom matrix properies
 ```
 
 [![ScreenShot](https://dl.dropboxusercontent.com/s/uqd409rfe0k7sk7/you_prev.png?dl=0)](https://youtu.be/-vdtWpoNdDg)
